@@ -1,0 +1,18 @@
+1. Sai cú pháp 90 <= grade <= 100 
+   sửa lỗi : bool isA = (90 <= grade && grade <= 100)
+2. in ra 0
+3. tràn số
+4. false
+5. báo warning hoặc báo lỗi tùy máy
+6. báo lỗi, chuyển khai báo ra hàm main vẫn báo lỗi;
+7. output: 0
+           0.75
+           0.75
+           0.75
+8. chương trình báo lỗi 
+   có nhiều kí tự trong 1 char
+9. định danh arg1 tới biến arg1 = 'A'
+10. định danh arg1 tới biến arg1 = -1
+11. C luôn trả về giá trị 0. Vì 5/9 trong ngoặc được thực hiện trước là = 0 rồi nhân với (F-32) = 0
+12. output Here
+
