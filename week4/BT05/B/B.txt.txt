@@ -12,13 +12,14 @@
     }
 3. 1000 lần lặp
 4. 17
+   17
 5. cài đặt thứ 2
 6. sẽ gọi đến hàm (int,double) vì tham số dữ liệu đầu tiên là int phù hợp hơn sau đó mới ép kiểu
 7. D
 8. A
-9. D
+9. B
 10. B
-11. D
+11. C
 12. B
 13. D
 14. D
